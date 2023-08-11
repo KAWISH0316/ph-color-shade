@@ -1,0 +1,103 @@
+#one{
+    text-align: center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(215, 245, 215);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#two{
+    text-align: center;
+    font-family: 'Borel', cursive;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(160, 239, 160);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#three{
+
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(119, 245, 119);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#four{
+
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(102, 245, 102);
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+#five{
+    text-align: center;
+    font-family: 'Preahvihear', sans-serif;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(78, 248, 78);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#six{
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(55, 247, 55);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#seven{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(42, 249, 42);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#eight{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(54, 162, 54);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#nine{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(24, 132, 24);
+    font-size: 60px;
+    text-decoration: underline;
+}
+#ten{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 2px rgb(115, 243, 115);
+    color: aliceblue;
+    border: 1px solid ;
+    background-color: rgb(4, 83, 4);
+    font-size: 60px;
+    text-decoration: underline;
+}
